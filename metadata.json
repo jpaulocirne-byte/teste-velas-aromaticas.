@@ -1,0 +1,8 @@
+
+{
+  "name": "teste – Velas Aromáticas",
+  "description": "Uma experiência premium de e-commerce para velas aromáticas artesanais, com foco em sofisticação, fragrâncias exclusivas e bem-estar.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
